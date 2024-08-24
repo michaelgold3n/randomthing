@@ -1,11 +1,11 @@
 # ClauseWise
 
-## An AI Legal Document Analyzer
+### An AI Legal Document Analyzer
 
 ## What it Does: 
 Analyzes contracts, legal agreements, or terms of service documents to identify key clauses, obligations, and potential risks.
 
-## RAG Component: 
+### RAG to agentic Component: 
 The system could retrieve relevant case laws, legal precedents, or interpretations from a large legal corpus, providing context or recommendations alongside the analysis.
 
 ### Why It’s Cool: 
